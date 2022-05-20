@@ -24,7 +24,7 @@ A sample project to experiment with MassTransit Saga, for service to service com
 
 ### How to run the demo app
 
-There's a `docker-compose.yml` file within the root of the repository. Just fire up your command-line then type in `docker-compose up -d` to run everything. _This repo should be ready to run and debug locally out of the box._
+There's a `docker-compose.yml` file within the root of the repository. Just fire up your command-line then type in `docker-compose up -d` to run everything. _This repo should be ready to run and debug locally out of the box._ If you are using Visual Studio 2022, you can also select the `docker-compose` project as the startup project and run+debug the application if you wish to follow along and see how this works.
 
 ### How to connect to MongoDb using NoSQL client
 
